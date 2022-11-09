@@ -1,0 +1,11 @@
+#masking h1{
+padding: 20px;
+border-radius: 10px;
+color:transparent;
+box-shadow: 0px 2px 10px red;
+text-align: center;
+font-size: 50px;
+background-image: url('wri.png');
+background-size:contain;
+-webkit-background-clip:text;
+}
